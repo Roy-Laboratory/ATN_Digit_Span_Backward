@@ -1,0 +1,28 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter / Notebook
+notebook
+ipykernel
+
+# Scientific / Stats
+scipy
+statsmodels
+
+# Machine Learning (if used)
+scikit-learn
+
+# File handling / utilities
+tqdm
+
+# JSON / data handling
+ujson
+
+# Optional (common in DS workflows)
+openpyxl
