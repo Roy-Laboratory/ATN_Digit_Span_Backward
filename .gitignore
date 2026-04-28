@@ -7,6 +7,7 @@
 # Allow git essentials
 !.gitignore
 !.gitattributes
+!.requirements.txt
 
 # Whitelist ONLY these folders
 !Data/
