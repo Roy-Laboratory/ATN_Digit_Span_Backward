@@ -1,0 +1,4 @@
+Session,NO_STIM_trials,STIM_ON_trials,N_NO_STIM,Correct_NO_STIM,N_STIM_ON,Correct_STIM_ON,p_value_Fisher,Significance,Cohens_d,Effect_Size
+Session 2,"T1, T2, T3, T4, T5, T6","T7, T8, T9, T10, T11, T12, T13, T14",6,5/6 (83%),8,1/8 (12%),0.0256,*,+1.877,large
+Session 3,"T1, T2, T5, T11, T13","T3, T4, T6, T7, T8, T9, T10, T12, T14",5,3/5 (60%),9,5/9 (56%),1.0000,ns,+0.083,negligible
+Combined (S2 + S3),"T1, T2, T3, T4, T5, T6, T1, T2, T5, T11, T13","T7, T8, T9, T10, T11, T12, T13, T14, T3, T4, T6, T7, T8, T9, T10, T12, T14",11,8/11 (73%),17,6/17 (35%),0.1201,ns,+0.775,medium

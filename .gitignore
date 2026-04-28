@@ -1,0 +1,31 @@
+# Ignore everything
+*
+
+# Allow directory traversal
+!*/
+
+# Allow git essentials
+!.gitignore
+!.gitattributes
+
+# Whitelist ONLY these folders
+!Data/
+!Data/**
+!Data Analysis/
+!Data Analysis/**
+!Data Preprocessing/
+!Data Preprocessing/**
+!Session 1/
+!Session 1/**
+!Session 1 v 2/
+!Session 1 v 2/**
+!Session 1 v 3/
+!Session 1 v 3/**
+!Session 2/
+!Session 2/**
+!Session 2 v 3/
+!Session 2 v 3/**
+!Session 3/
+!Session 3/**
+!Session 4/
+!Session 4/**
